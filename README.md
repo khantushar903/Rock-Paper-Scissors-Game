@@ -1,1 +1,1 @@
-# This is my 2nd project using html,css & javascript
+# I build this project by watching tutorials
